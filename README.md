@@ -3,4 +3,5 @@ Desktop:
 
 
 Mobile:
-![image](https://github.com/LucasKennde/Project-Qr-Code-html5-e-css3/assets/166322461/33d60954-5234-4cbb-a792-288d7c682d7c)
+
+![image Mobile](https://github.com/LucasKennde/Project-Qr-Code-html5-e-css3/assets/166322461/33d60954-5234-4cbb-a792-288d7c682d7c)
